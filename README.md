@@ -1,7 +1,7 @@
 # Smart-study-planner-
 Ultimate Smart Study Planner
 
-A Netflix-style, offline Smart Study Planner web app designed to help students organize their tasks, track progress, and stay motivated. Fully responsive, feature-rich, and visually inspired by Netflix’s dark-themed interface.
+A  offline Smart Study Planner web app designed to help students organize their tasks, track progress, and stay motivated. Fully responsive, feature-rich.
 
 Features
 
